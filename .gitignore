@@ -15,3 +15,6 @@ IDM_Reg_Backup.reg
 .idea/
 *.user
 *.suo
+
+# 回归测试产物
+tests/*.exe
